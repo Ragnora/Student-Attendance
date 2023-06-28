@@ -1,0 +1,17 @@
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\bin\Debug\AsdosProjek.exe.config
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\bin\Debug\AsdosProjek.exe
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\bin\Debug\AsdosProjek.pdb
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\bin\Debug\AsdosProjek.xml
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\obj\Debug\AsdosProjek.vbproj.AssemblyReference.cache
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\obj\Debug\AsdosProjek.vbproj.SuggestedBindingRedirects.cache
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\obj\Debug\Interop.ADODB.dll
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\obj\Debug\AsdosProjek.vbproj.ResolveComReference.cache
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\obj\Debug\AsdosProjek.Form1.resources
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\obj\Debug\AsdosProjek.Form2.resources
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\obj\Debug\AsdosProjek.Resources.resources
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\obj\Debug\AsdosProjek.vbproj.GenerateResource.cache
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\obj\Debug\AsdosProjek.vbproj.CoreCompileInputs.cache
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\obj\Debug\AsdosProjek.exe
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\obj\Debug\AsdosProjek.xml
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\obj\Debug\AsdosProjek.pdb
+D:\Kuliah\S2\PBO\AsdosProjek\AsdosProjek\bin\Debug\dbmahasiswa.accdb
